@@ -1,0 +1,13 @@
+body{
+        padding:15px 40px;
+        font-family: Consolas;
+        font-size: 1.25em;
+        font-weight: normal;
+}
+
+.absolute{
+	position:fixed; 
+	top:0; 
+	right:0;
+	
+}
